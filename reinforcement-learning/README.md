@@ -7,7 +7,7 @@ Helpful resources:
 - [Nimish Sanghi's book on Deep RL](https://link.springer.com/book/10.1007/979-8-8688-0273-7)
 - [Maxim Lapan's book on Deep RL](https://amzn.in/d/53wRETg)
 
-## Contents
+## Contents (Algorithms List)
 
 - **Action Selection Strategies:**
     - Greedy
@@ -20,7 +20,7 @@ Helpful resources:
     - Policy Iteration (includes policy evaluation and policy improvement)
     - Value Iteration
 
-- **Model-Free Algorithms:** 
+- **Model-Free Algorithms:**
     - MC (Monte Carlo) Prediction/Control
     - GLIE (Greedy in the Limit with Infinite Exploration) MC Control
     - Off-policy MC Control
