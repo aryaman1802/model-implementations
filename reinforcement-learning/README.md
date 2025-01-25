@@ -33,9 +33,9 @@ Helpful resources:
     - n-step SARSA *(coming soon)*
     - $\lambda$-SARSA *(coming soon)*
 
-- **Function Approximation Algorithms:** *(coming soon)*
-    - N-Step SARSA Control
-    - SARSA Control
+- **Function Approximation Algorithms:**
+    - Semi-gradient n-step SARSA Control
+    - Semi-gradient SARSA($\lambda$) Control
 
 - **Deep Q-Learning Algorithm (and its variants)** *(coming soon)*
     - Simple DQN (Deep Q-Network)
