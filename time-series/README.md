@@ -14,7 +14,7 @@ This directory will contain both traditional and ML based implementations of Tim
 - SARIMA $\quad \rightarrow \quad$ Seasonal AutoRegressive Integrated Moving Average
 - ETS $\quad \rightarrow \quad$ Error, Trend, Seasonality
 - VAR $\quad \rightarrow \quad$ Vector AutoRegressive
-- TBATS $\quad \rightarrow \quad$ Trigonometric Seasonal, Box-Cox Transformation, ARMA errors, Trend and Seasonal components
+- TBATS $\quad \rightarrow \quad$ Trigonometric seasonality, Box-Cox transformation, ARMA errors, Trend components, Seasonal components
 
 ### ML-based TS Models
 
