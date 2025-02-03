@@ -7,7 +7,7 @@ Helpful resources:
 - [Nimish Sanghi's book on Deep RL](https://link.springer.com/book/10.1007/979-8-8688-0273-7)
 - [Maxim Lapan's book on Deep RL](https://amzn.in/d/53wRETg)
 
-## Contents (Algorithms List)
+## Contents (List of algorithms)
 
 - **Action Selection Strategies:**
     - Greedy
@@ -37,18 +37,19 @@ Helpful resources:
     - Semi-gradient n-step SARSA Control
     - Semi-gradient SARSA($\lambda$) Control
 
-- **Deep Q-Learning Algorithm (and its variants)** *(coming soon)*
-    - Simple DQN (Deep Q-Network)
-    - Replay Buffer
-    - TD Loss
-    - Prioritized Replay Buffer
-    - TD Loss with Prioritized Replay
-    - Double Q-learning
-    - TD Loss with Double Q-learning
+- **Deep Q-Networks:**
+    - Simple Deep Q-Network (DQN)
+    - DQN with Prioritized Replay
+    - Double DQN
     - Dueling DQN
     - NoisyNets DQN
-    - Hindsight Experience Replay
+    - Categorical 51-Atom DQN
+    - Quantile Regression DQN
+    - DQN with Hindsight Experience Replay
 
-- **Policy Gradient Algorithms**
-    - Coming soon...
+- **Policy Gradient Algorithms:**
+    - REINFORCE
+    - Advantage Actor-Critic (A2C)
 
+- **Combining Policy Gradient Algorithms & Deep Q-Networks:**
+    - *coming soon*
