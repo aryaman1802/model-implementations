@@ -10,7 +10,10 @@ This directory contains implementations of Deep Generative Models.
    
 <br>
 
-### **3. Autoregressive Models (*coming soon*)**
+### **3. Autoregressive Models**
+
+- Autoregressive model using Causal Convolutional layers
+- Transformer
     
 <br>
 
