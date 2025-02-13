@@ -17,14 +17,18 @@ This directory contains implementations of Deep Generative Models.
     
 <br>
 
-### **4. Flow-Based Models (*coming soon*)**
+### **4. Flow-Based Models**
 
-<br>
+- Introduction to Flow-Based Models
+- RealNVP (Real-valued Non-Volume Preserving flows)
+- IDF (Integer Discrete Flows)
 
-### **5. Latent Variable Models (*coming soon*)**
+### **5. Latent Variable Models**
+
 - Autoencoders
     - Simple Autoencoder
     - Variational Autoencoder
+- Diffusion Models
 
 <br>
 
