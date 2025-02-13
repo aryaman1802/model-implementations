@@ -23,6 +23,8 @@ This directory contains implementations of Deep Generative Models.
 - RealNVP (Real-valued Non-Volume Preserving flows)
 - IDF (Integer Discrete Flows)
 
+<br>
+
 ### **5. Latent Variable Models**
 
 - Autoencoders
