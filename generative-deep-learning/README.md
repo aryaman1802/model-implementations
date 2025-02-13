@@ -2,6 +2,8 @@
 
 This directory contains implementations of Deep Generative Models.
 
+<br>
+
 ### **1. Introduction (overview of the models)**
 
 <br>
