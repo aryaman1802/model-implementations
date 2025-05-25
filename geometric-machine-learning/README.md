@@ -1,6 +1,7 @@
 ## Introduction
 
-This directory will contain both model implementations and notebooks showing how to *use* graph neural networks with PyTorch Geometric library. I'll first upload notebooks illustrating the applications of GNNs. Later on, I'll start uploading the from-scratch implementations of various GNNs.
+This directory will contain both model implementations and notebooks showing how to *use* graph neural networks with PyTorch Geometric library. 
+<!-- I'll first upload notebooks illustrating the applications of GNNs. Later on, I'll start uploading the from-scratch implementations of various GNNs.
 
 The following is a list of *potential* from-scratch implementations that you might see in this directory in the future:
 - DeepWalk
@@ -18,4 +19,4 @@ The following is a list of *potential* from-scratch implementations that you mig
 - EvolveGCN
 - MPNN-LSTM
 - A3T-GCN
-- LightGCN
+- LightGCN -->
