@@ -1,0 +1,16 @@
+In addition, you will need to explain where we can replace the Q-table (if used by PQL) by a neural network, and since the PQL implementation is for online reinforcement learning
+
+================================
+
+I have some doubts regarding the workings of the Discrete Conservative Q-Learning (Discrete CQL) algorithm. I extracted the implementation of the Discrete CQL model from the d3rlpy library, and dumped that in a python file d3rlpy_cql.py. Your task is to create another python file that is contains a standalone implementation of the Discrete CQL model. This python file is simply a refactored version of the Discrete CQL implementation present in the d3rlpy library to act as a standalone implementation. It is NOT a new implementation. 
+
+You must let me know if you need anything from the d3rlpy library. You don't need to extract the code yourself, I will do it for you.
+
+	
+================================
+
+Your tasks are as follows:
+- First, explain the architecture of CQL model (see the attached file cql.py). The explanation should be in-depth, including what does the model take as input, what happens inside the model, what does the model return as output, etc.
+- Then explain the training process of CQL model. Again, the explanation should be in-depth.
+
+Your explanation must depend on the attached file `cql.py`, and when explaining either the training process or the model architecture, you must cite code snippets so that I can be certain that your explanation is indeed correct. Also, you can let me know if you think there's something missing from the file d3rlpy_cql.py that you need to properly explain the model architecture or the training process.
