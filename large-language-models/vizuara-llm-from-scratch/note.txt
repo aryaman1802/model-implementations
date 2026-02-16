@@ -1,0 +1,2 @@
+This directory contains files from Vizuara's "Building LLMs from scratch" playlist: https://youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu&si=0z90CcxMO3xXOzFy
+
